@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" role="img" aria-labelledby="title desc">
+  <title id="title">Common memory magnet shapes and formats</title>
+  <desc id="desc">Examples include a square photo magnet, a round illustrated magnet, and a flexible rectangular magnet.</desc>
+  <rect width="900" height="480" rx="30" fill="#fffaf0"/>
+  <g transform="translate(80 80) rotate(-5 130 130)">
+    <rect width="260" height="260" rx="24" fill="#ff705d" stroke="#17313b" stroke-width="8"/>
+    <rect x="28" y="28" width="204" height="150" rx="10" fill="#bde9ff"/>
+    <path d="M28 152l50-50 43 37 39-63 72 76v26H28z" fill="#8d83ff"/>
+    <path d="M56 212h148" stroke="#fffaf0" stroke-width="14" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(350 65)">
+    <circle cx="150" cy="150" r="145" fill="#c9f65b" stroke="#17313b" stroke-width="8"/>
+    <circle cx="150" cy="130" r="74" fill="#fffaf0"/>
+    <circle cx="126" cy="127" r="8" fill="#17313b"/><circle cx="174" cy="127" r="8" fill="#17313b"/>
+    <path d="M122 159q28 26 56 0" fill="none" stroke="#ff705d" stroke-width="10" stroke-linecap="round"/>
+    <text x="150" y="257" font-family="Arial,sans-serif" font-size="31" font-weight="800" text-anchor="middle" fill="#17313b">BEST DAY</text>
+  </g>
+  <g transform="translate(646 112) rotate(6 95 130)">
+    <rect width="190" height="260" rx="18" fill="#8d83ff" stroke="#17313b" stroke-width="8"/>
+    <rect x="24" y="24" width="142" height="162" rx="9" fill="#fffaf0"/>
+    <circle cx="95" cy="95" r="47" fill="#ff705d"/>
+    <path d="M68 96l18 18 39-47" fill="none" stroke="#fffaf0" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M42 220h106" stroke="#c9f65b" stroke-width="13" stroke-linecap="round"/>
+  </g>
+</svg>

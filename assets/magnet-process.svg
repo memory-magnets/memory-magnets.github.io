@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" role="img" aria-labelledby="title desc">
+  <title id="title">Four steps for making a memory magnet</title>
+  <desc id="desc">Choose a photo, crop the design, assemble the layers, then display the finished magnet.</desc>
+  <rect width="800" height="620" rx="34" fill="#fffaf0"/>
+  <path d="M230 150h110m120 0h110M230 440h110m120 0h110" stroke="#17313b" stroke-width="6" stroke-dasharray="13 13"/>
+  <path d="M340 150l-18-12v24zm230 0l-18-12v24zM340 440l-18-12v24zm230 0l-18-12v24z" fill="#17313b"/>
+  <g transform="translate(45 55)">
+    <rect width="185" height="190" rx="22" fill="#bde9ff" stroke="#17313b" stroke-width="6"/>
+    <rect x="28" y="32" width="129" height="96" rx="8" fill="#fffaf0"/>
+    <circle cx="60" cy="62" r="15" fill="#ff705d"/>
+    <path d="M28 112l39-39 28 27 25-39 37 51v16H28z" fill="#8d83ff"/>
+    <text x="93" y="163" font-family="Arial,sans-serif" font-size="23" font-weight="800" text-anchor="middle" fill="#17313b">CHOOSE</text>
+  </g>
+  <g transform="translate(340 55)">
+    <rect width="185" height="190" rx="22" fill="#c9f65b" stroke="#17313b" stroke-width="6"/>
+    <circle cx="92" cy="82" r="53" fill="#fffaf0" stroke="#17313b" stroke-width="4" stroke-dasharray="7 7"/>
+    <path d="M49 49l86 66M135 49l-86 66" stroke="#ff705d" stroke-width="7" stroke-linecap="round"/>
+    <text x="93" y="163" font-family="Arial,sans-serif" font-size="23" font-weight="800" text-anchor="middle" fill="#17313b">CROP</text>
+  </g>
+  <g transform="translate(570 55)">
+    <rect width="185" height="190" rx="22" fill="#ff705d" stroke="#17313b" stroke-width="6"/>
+    <rect x="34" y="30" width="116" height="88" rx="10" fill="#fffaf0"/>
+    <rect x="44" y="42" width="116" height="88" rx="10" fill="#bde9ff" stroke="#17313b" stroke-width="4"/>
+    <text x="93" y="163" font-family="Arial,sans-serif" font-size="23" font-weight="800" text-anchor="middle" fill="#fffaf0">LAYER</text>
+  </g>
+  <g transform="translate(340 345)">
+    <rect width="185" height="190" rx="22" fill="#8d83ff" stroke="#17313b" stroke-width="6"/>
+    <rect x="46" y="28" width="95" height="112" rx="12" fill="#fffaf0" stroke="#17313b" stroke-width="5" transform="rotate(-7 93 84)"/>
+    <path d="M66 60h55v47H66z" fill="#ff705d"/>
+    <path d="M72 119h42" stroke="#17313b" stroke-width="7" stroke-linecap="round"/>
+    <text x="93" y="163" font-family="Arial,sans-serif" font-size="23" font-weight="800" text-anchor="middle" fill="#fffaf0">DISPLAY</text>
+  </g>
+  <path d="M405 265c0 45-5 59-29 76" fill="none" stroke="#17313b" stroke-width="6" stroke-dasharray="13 13"/>
+  <path d="M377 341l4-22 17 15z" fill="#17313b"/>
+</svg>

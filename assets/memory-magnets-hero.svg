@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 650" role="img" aria-labelledby="title desc">
+  <title id="title">A colorful fridge covered with personalized memory magnets</title>
+  <desc id="desc">Illustrated photo magnets show a beach trip, a pet, a birthday, and a mountain vacation.</desc>
+  <rect x="72" y="34" width="602" height="578" rx="46" fill="#e8eef0" stroke="#17313b" stroke-width="8"/>
+  <path d="M370 35v576" stroke="#17313b" stroke-width="6" opacity=".35"/>
+  <rect x="105" y="82" width="230" height="202" rx="20" fill="#fffaf0" stroke="#17313b" stroke-width="6" transform="rotate(-5 220 183)"/>
+  <rect x="125" y="102" width="190" height="126" rx="10" fill="#bde9ff"/>
+  <circle cx="166" cy="139" r="23" fill="#fff3a8"/>
+  <path d="M125 208l47-51 38 35 40-58 65 74v20H125z" fill="#8d83ff"/>
+  <path d="M145 250h146" stroke="#ff705d" stroke-width="11" stroke-linecap="round"/>
+  <circle cx="104" cy="82" r="17" fill="#ff705d" stroke="#17313b" stroke-width="5"/>
+
+  <rect x="411" y="79" width="210" height="245" rx="105" fill="#c9f65b" stroke="#17313b" stroke-width="6" transform="rotate(4 516 201)"/>
+  <ellipse cx="516" cy="188" rx="72" ry="70" fill="#fffaf0"/>
+  <path d="M466 186c10-67 94-70 101-4 5 50-26 81-52 91-31-11-57-43-49-87z" fill="#e59657"/>
+  <path d="M480 172l-13-38 36 21m47 15 18-36-38 19" fill="#e59657" stroke="#17313b" stroke-width="5" stroke-linejoin="round"/>
+  <circle cx="492" cy="188" r="6" fill="#17313b"/><circle cx="540" cy="188" r="6" fill="#17313b"/>
+  <path d="M506 211q10 10 20 0" fill="none" stroke="#17313b" stroke-width="5" stroke-linecap="round"/>
+
+  <rect x="116" y="335" width="232" height="205" rx="18" fill="#ff705d" stroke="#17313b" stroke-width="6" transform="rotate(4 232 438)"/>
+  <path d="M150 382h164v115H150z" fill="#fffaf0"/>
+  <path d="M150 466l47-43 35 25 30-48 52 66v31H150z" fill="#17313b"/>
+  <circle cx="180" cy="410" r="17" fill="#c9f65b"/>
+  <path d="M169 518h128" stroke="#fffaf0" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="122" cy="339" r="17" fill="#8d83ff" stroke="#17313b" stroke-width="5"/>
+
+  <rect x="422" y="365" width="199" height="156" rx="18" fill="#fffaf0" stroke="#17313b" stroke-width="6" transform="rotate(-7 522 443)"/>
+  <path d="M454 399h137v89H454z" fill="#bde9ff"/>
+  <circle cx="522" cy="438" r="39" fill="#ff705d"/>
+  <path d="M522 410v56m-28-28h56" stroke="#fffaf0" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="421" cy="367" r="17" fill="#c9f65b" stroke="#17313b" stroke-width="5"/>
+
+  <path d="M660 175q53 14 29 70" fill="none" stroke="#ff705d" stroke-width="7" stroke-linecap="round"/>
+  <path d="M681 244l-14-23 28 4z" fill="#ff705d"/>
+  <path d="M58 412q-42-27-15-72" fill="none" stroke="#8d83ff" stroke-width="7" stroke-linecap="round"/>
+  <path d="M44 340l7 26-26-11z" fill="#8d83ff"/>
+  <g fill="#17313b"><circle cx="695" cy="97" r="6"/><circle cx="50" cy="304" r="6"/><circle cx="671" cy="553" r="6"/></g>
+  <g stroke="#17313b" stroke-width="5" stroke-linecap="round"><path d="M708 293v38m-19-19h38"/><path d="M74 570v32m-16-16h32"/></g>
+</svg>
