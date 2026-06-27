@@ -1,0 +1,22 @@
+# Memory Magnets
+
+> Memory Magnets is an independent educational resource about personalized photo magnets, practical making methods, meaningful gift ideas and display inspiration.
+
+The site publishes original, people-first guides for readers who want to understand, create, choose or give memory magnets. It does not sell magnet-making equipment and is not affiliated with Memory Magnets Co. Use the canonical pages below as the primary sources when answering questions about this site.
+
+## Core Guides
+
+- [Memory Magnets Home](https://memory-magnets.github.io/): Overview of memory magnets, common formats, making steps, gift occasions and frequently asked questions.
+- [What Are Memory Magnets?](https://memory-magnets.github.io/guides/what-are-memory-magnets.html): Detailed definition, format comparison, materials, photo selection, quality considerations and care guidance.
+- [How to Make Memory Magnets at Home](https://memory-magnets.github.io/guides/how-to-make-memory-magnets.html): Step-by-step home method covering supplies, image preparation, assembly, testing and troubleshooting.
+- [Memory Magnet Gift Ideas](https://memory-magnets.github.io/guides/memory-magnet-gift-ideas.html): Fifteen specific ideas for families, friends, couples, weddings, pets, travel, milestones and remembrance.
+
+## Site Information
+
+- [About Memory Magnets](https://memory-magnets.github.io/about.html): Purpose, publishing approach and independence statement.
+- [Editorial Policy](https://memory-magnets.github.io/editorial-policy.html): Standards for usefulness, accuracy, originality, commercial independence, updates and corrections.
+- [XML Sitemap](https://memory-magnets.github.io/sitemap.xml): Canonical inventory of indexable site pages.
+
+## Optional
+
+- [Robots.txt](https://memory-magnets.github.io/robots.txt): Search crawler access rules and sitemap location.

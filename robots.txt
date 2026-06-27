@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://memory-magnets.github.io/sitemap.xml
